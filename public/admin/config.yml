@@ -146,9 +146,7 @@ collections:
           valueField: "tags.*.slug"
       - label: "Body"
         name: "body"
-        widget: "markdown"
-        
-collections:
+        widget: "markdown"        
   - label: "Pages"
     name: "pages"
     files:
