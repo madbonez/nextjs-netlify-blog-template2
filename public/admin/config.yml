@@ -98,6 +98,9 @@ collections:
     identifier_field: slug
     summary: "{{title}}"
     fields:
+      - label: "Code"
+        name: "code"
+        widget: "code"
       - label: "Slug"
         name: "slug"
         widget: "string"
