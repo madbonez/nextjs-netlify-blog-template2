@@ -1,0 +1,11 @@
+{
+  "locations": [
+    {
+      "name": "Имя",
+      "address": "Адрес",
+      "photo": "/images/icon1.png"
+    }
+  ],
+  "intro": "# Заголовок\n\nТекст",
+  "title": "Заголовок главный самый"
+}
