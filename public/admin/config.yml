@@ -166,7 +166,7 @@ collections:
           - {label: MainSection, name: MainSection, widget: markdown}    
       - label: "Locations Page"
         name: "locations"
-        file: "site/content/locations.yml"
+        file: "site/content/locations.json"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: markdown}
@@ -176,3 +176,4 @@ collections:
             fields:
               - {label: Name, name: name, widget: string}
               - {label: Address, name: address, widget: string}
+              - {label: Photo, name: photo, widget: image}    
